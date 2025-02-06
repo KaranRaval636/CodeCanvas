@@ -155,6 +155,7 @@ ul li a{
     width: 20px !important;
     height: 20px !important;
     border-radius: 50%;
+    border: 1px solid red;
 }
 
 .w-100{
@@ -211,9 +212,9 @@ ul li a{
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    width: 100%;
+    /* width: 100%; */
     height: 70vh;
-    margin: 0 auto;
+    /* margin: 0 auto; */
     /* position: relative; */
     animation: panbackground 20s linear infinite;
     border-radius: 10px;
@@ -263,6 +264,10 @@ ul li a{
 /* Fonts Start */
 .fontPlayfair{
     font-family: "Playfair Display", serif;
+}
+
+.fontRoboto{
+    font-family: "Roboto", serif;
 }
 
 .fontPlaywrite{
