@@ -214,7 +214,7 @@ ul li a{
     background-size: cover;
     /* width: 100%; */
     height: 70vh;
-    /* margin: 0 auto; */
+    margin: 0 auto;
     /* position: relative; */
     animation: panbackground 20s linear infinite;
     border-radius: 10px;
