@@ -17,7 +17,7 @@ Check out the live version of the project here:
 
 <h3>📥 Clone the Repository</h3>
 
-git clone https://github.com/karanraval636/CodeCanvas.git
+git clone https://github.com/KaranRaval636/CodeCanvas.git
 
 <h3>📂 Navigate to Project Folder</h3>
 
