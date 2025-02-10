@@ -21,7 +21,7 @@ git clone https://github.com/KaranRaval636/CodeCanvas.git
 
 <h3>📂 Navigate to Project Folder</h3>
 
-cd Login-Page
+cd CodeCanvas
 
 <h3>🌐 Open in Browser</h3>
 
