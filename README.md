@@ -1,6 +1,6 @@
-<h1>Login and Registration Page</h1>
+<h1>CodeCanvas</h1>
 
-This repository contains a simple and responsive login and registration page built using HTML, CSS, and Bootstrap.
+CodeCanvas is a responsive and interactive web project built using HTML, CSS, Bootstrap, jQuery, and JavaScript. It showcases a modern UI with smooth animations, intuitive navigation, and dynamic components. Designed as a learning experience, this project integrates best practices in front-end development to create a visually appealing and user-friendly experience.
 
 <h2>Live Demo</h2>
 
